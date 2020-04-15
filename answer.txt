@@ -1,0 +1,30 @@
+created by mingman
+q1:
+Anand Beck
+
+q2:
+37
+
+q3:
+book:
+Fellowship of the Ring
+1984
+Tom Sawyer
+Catcher in the Rye
+To Kill a Mockingbird
+Domain Driven Design
+
+movie:
+Thin Red Line
+Crouching Tiger, Hidden Dragon
+Lawrence of Arabia
+Office Space
+
+q4:
+insert into member(id,name) values(43,'mingman.zheng');
+insert into book(id,title) values(11,'The Pragmatic Programmer');
+insert into checkout_item(member_id,book_id) values(43,11);
+
+q5:
+1|Anand Beck|3
+6|Frank Smith|3
